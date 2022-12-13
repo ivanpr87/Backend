@@ -1,0 +1,33 @@
+html
+  head
+    title="Mi primera plantilla en pug js"
+    link(href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous")
+  body
+    div(class="col-3 container mt-4 text-center")
+      div(class="row")
+        div(class="col")
+          div(class="text-center")
+            a(class="btn btn-primary text-center"
+              href='/'
+            )='<- Ir a formulario'
+            h2(class="text-center")='Vista de Productos'
+            if productos.length == 0
+              h3(class="text-center")='No hay datos.'
+            else 
+              table(class="table")
+                tr 
+                  th(class="text-center")='Titulo'
+                  th(class="text-center")='Precio'
+                  th(class="text-center")='Producto'
+                each producto in productos
+                  tr 
+                    td(class="text-center")=producto.title
+                    td(class="text-center")=producto.price
+                    td(class="text-center")
+                      img(
+                        src=producto.thumbnail
+                      )
+    script(src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+    crossorigin="anonymous")

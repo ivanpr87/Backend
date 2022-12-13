@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Cama",
+        "price": 19000,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_810923-MLA48812287274_012022-O.webp",
+        "id": 1
+    },
+    {
+        "title": "Bicicleta",
+        "price": 50000,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_978923-MLA51075383608_082022-O.webp",
+        "id": 2
+    },
+    {
+        "title": "Heladera",
+        "price": 1360000,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_952184-MLA43407133867_092020-O.webp",
+        "id": 3
+    },
+    {
+        "title": "sofa",
+        "price": 60000,
+        "thumbnail": "https://desillas.com/img/productos/size_1/NONNMR_1.jpg",
+        "id": 4
+    },
+    {
+        "title": "343",
+        "price": 4,
+        "thumbnail": "2",
+        "id": 5
+    }
+]

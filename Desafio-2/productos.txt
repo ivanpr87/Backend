@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Joystick PS5",
+    "price": 28000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_621951-MLA46237882917_062021-O.webp",
+    "id": 1
+  },
+  {
+    "title": "Teclado Gamer",
+    "price": 20000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_963204-MLA40694328429_022020-O.webp",
+    "id": 2
+  },
+  {
+    "title": "Monitor Gamer 27 Pulgadas Ozone 144hz",
+    "price": 1360000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_885157-MLA51145522594_082022-O.webp",
+    "id": 3
+  },
+  {
+    "title": "Monitor Gamer 27 Pulgadas Ozone 144hz",
+    "price": 1360000,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_885157-MLA51145522594_082022-O.webp",
+    "id": 4
+  }
+]

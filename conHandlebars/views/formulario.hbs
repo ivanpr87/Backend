@@ -1,0 +1,16 @@
+<div class="col-3 container mt-4">
+<div class="text-center">
+  <a href="/productos" class="btn btn-primary text-center">Ir a la lista -></a>
+</div>
+<h1>Ingrese producto: </h1>
+
+<form class="row g-3" action="/productos" method="post">
+  <label for="title">Titulo:</label>
+  <input required class="form-control form-control-lg" placeholder="Producto" aria-label=".form-control-lg example" type="text" id="title" name="title">
+  <label for="price" >Precio:</label>
+  <input required class="form-control form-control-lg" placeholder="Precio" aria-label=".form-control-lg example" type="text" id="price" name="price">
+  <label for="thumbnail">Foto URL:</label>
+  <input required class="form-control form-control-lg" placeholder="imagen" aria-label=".form-control-lg example"  type="text" id="thumbnail" name="thumbnail">
+  <input class="btn btn-primary" type="submit" value="Enviar">
+</form>
+</div>

@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Calculadora",
+        "price": 234,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+        "timestamp": "21-11-2022 18:11:95",
+        "codigo": "824d5c25-badf-41a4-8a04-1bb776bab060",
+        "stock": 52352352352311,
+        "id": 1
+    },
+    {
+        "title": "Calculadora",
+        "price": 234,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+        "timestamp": "21-11-2022 18:11:41",
+        "codigo": "58d0df63-4301-4a3f-8524-ed10d5f37c8f",
+        "stock": 52352352352311,
+        "id": 2
+    },
+    {
+        "title": "Calculadoras",
+        "price": 2343,
+        "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+        "timestamp": "21-11-2022 18:11:92",
+        "codigo": "444b42fa-4b08-4801-8a1d-b34cdcb79563",
+        "stock": 52352352352311,
+        "id": 3
+    }
+]
